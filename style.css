@@ -2,3 +2,6 @@ body {
     font-family: fantasy;
 }
 
+#grad {
+    background-image: linear-gradient(to bottom right, blue, gray)
+}
