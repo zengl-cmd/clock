@@ -6,5 +6,5 @@ body {
 }
 
 #grad {
-    background-image: linear-gradient(to bottom right, blue, gray)
+    background-image: linear-gradient(to 180deg, blue, gray)
 }
